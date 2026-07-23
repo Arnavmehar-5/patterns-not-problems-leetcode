@@ -5,7 +5,8 @@ My LeetCode solutions and insights, organized by pattern — built to help other
 <br>
 
 ### 📊 Arnav's LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/Arnavmehar-5?theme=dark&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Arnavmehar-5?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/Arnavmehar-5?theme=unicorn&extension=activity)
+
 
 <br>
 
