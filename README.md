@@ -38,3 +38,11 @@ If you spot a mistake, a better approach, or just have thoughts on how something
 ## 🚀 Status
 
 Growing slowly but steadily, alongside the rest of my DSA journey.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+<!---LeetCode Topics End-->
