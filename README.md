@@ -44,5 +44,14 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 <!---LeetCode Topics End-->
