@@ -54,4 +54,12 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0283-move-zeroes/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
