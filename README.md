@@ -58,6 +58,7 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
