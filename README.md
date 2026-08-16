@@ -46,10 +46,12 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 | ------- | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +62,7 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 | [0035-search-insert-position](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0283-move-zeroes](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +71,8 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0035-search-insert-position/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 <!---LeetCode Topics End-->
