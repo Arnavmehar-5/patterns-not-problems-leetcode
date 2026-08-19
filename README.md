@@ -47,11 +47,13 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
