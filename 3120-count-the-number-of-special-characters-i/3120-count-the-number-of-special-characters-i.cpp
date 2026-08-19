@@ -22,6 +22,6 @@ for (int i = 0; i < 26; i++) {
         count++;
     }
 } 
-        return count++;
+        return count;
     }
 };
