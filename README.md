@@ -79,4 +79,8 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2235-add-two-integers](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->
