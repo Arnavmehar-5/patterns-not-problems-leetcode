@@ -83,4 +83,5 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2235-add-two-integers](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 <!---LeetCode Topics End-->
