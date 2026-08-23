@@ -63,6 +63,7 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0189-rotate-array](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -70,6 +71,7 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0189-rotate-array](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0283-move-zeroes/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -82,6 +84,7 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0189-rotate-array/) | Medium |
 | [2235-add-two-integers](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 <!---LeetCode Topics End-->
