@@ -61,6 +61,7 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0189-rotate-array](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -70,6 +71,7 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0189-rotate-array](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -80,6 +82,7 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0015-3sum/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Math
 | Problem Name | Difficulty |
