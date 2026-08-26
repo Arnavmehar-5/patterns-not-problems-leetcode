@@ -63,6 +63,7 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 | ------- | ------- |
 | [0015-3sum](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0189-rotate-array](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -78,6 +79,7 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0035-search-insert-position/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
