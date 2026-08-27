@@ -92,4 +92,9 @@ Growing slowly but steadily, alongside the rest of my DSA journey.
 | [0189-rotate-array](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0189-rotate-array/) | Medium |
 | [2235-add-two-integers](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
