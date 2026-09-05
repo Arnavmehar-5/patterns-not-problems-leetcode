@@ -25,7 +25,7 @@ int firstStableIndex(int* nums, int numsSize, int k) {
             return i;
         }
     }
-
+free(dp);
 
     return -1;
 }
