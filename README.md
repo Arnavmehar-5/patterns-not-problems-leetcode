@@ -11,4 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/Arnavmehar-5/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Arnavmehar-5/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Arnavmehar-5/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 <!---LeetCode Topics End-->
