@@ -23,4 +23,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arnavmehar-5/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Arnavmehar-5/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 <!---LeetCode Topics End-->
