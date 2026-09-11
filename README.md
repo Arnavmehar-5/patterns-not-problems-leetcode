@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Arnavmehar-5/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Arnavmehar-5/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -27,4 +28,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Arnavmehar-5/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Arnavmehar-5/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Arnavmehar-5/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Arnavmehar-5/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Arnavmehar-5/LeetCode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
