@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Arnavmehar-5/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Arnavmehar-5/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arnavmehar-5/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Arnavmehar-5/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0836-rectangle-overlap](https://github.com/Arnavmehar-5/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Arnavmehar-5/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arnavmehar-5/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arnavmehar-5/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
