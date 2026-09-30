@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Arnavmehar-5/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arnavmehar-5/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Arnavmehar-5/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -78,4 +79,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Arnavmehar-5/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arnavmehar-5/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arnavmehar-5/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
