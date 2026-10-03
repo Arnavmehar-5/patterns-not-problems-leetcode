@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/Arnavmehar-5/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0202-happy-number](https://github.com/Arnavmehar-5/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Arnavmehar-5/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Arnavmehar-5/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/Arnavmehar-5/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Arnavmehar-5/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -94,4 +96,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Arnavmehar-5/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0089-gray-code](https://github.com/Arnavmehar-5/LeetCode/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
