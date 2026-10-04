@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Arnavmehar-5/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0877-stone-game](https://github.com/Arnavmehar-5/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Arnavmehar-5/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arnavmehar-5/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Arnavmehar-5/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Arnavmehar-5/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Arnavmehar-5/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0877-stone-game](https://github.com/Arnavmehar-5/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Arnavmehar-5/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -33,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0089-gray-code](https://github.com/Arnavmehar-5/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0202-happy-number](https://github.com/Arnavmehar-5/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Arnavmehar-5/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [0877-stone-game](https://github.com/Arnavmehar-5/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Arnavmehar-5/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arnavmehar-5/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arnavmehar-5/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -97,4 +100,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Arnavmehar-5/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0089-gray-code](https://github.com/Arnavmehar-5/LeetCode/tree/main/0089-gray-code/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Arnavmehar-5/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Arnavmehar-5/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Arnavmehar-5/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
