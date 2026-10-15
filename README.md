@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Arnavmehar-5/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Arnavmehar-5/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Arnavmehar-5/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arnavmehar-5/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Arnavmehar-5/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Arnavmehar-5/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +126,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Arnavmehar-5/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
