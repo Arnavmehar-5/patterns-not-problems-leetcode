@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/Arnavmehar-5/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arnavmehar-5/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Arnavmehar-5/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Prefix Sum
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Arnavmehar-5/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Arnavmehar-5/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Arnavmehar-5/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
