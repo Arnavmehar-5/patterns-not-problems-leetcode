@@ -1,0 +1,19 @@
+int minOperations(int* A, int n) {
+    int asc = 1, dsc = 1;
+
+    for (int i = 1; i < n; i++) {
+        asc += A[i] == (A[i - 1] + 1) % n;
+        dsc += A[i - 1] == (A[i] + 1) % n;
+    }
+
+    if (asc == n && !A[0])
+        return 0;
+
+    if (asc == n)
+        return fmin(n - A[0], A[0] + 2);
+
+    if (dsc == n)
+        return fmin(n - A[n - 1], A[n - 1]) + 1;
+
+    return -1;
+}
