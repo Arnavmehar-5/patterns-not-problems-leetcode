@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Arnavmehar-5/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Arnavmehar-5/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0856-score-of-parentheses](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arnavmehar-5/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arnavmehar-5/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Arnavmehar-5/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -103,12 +104,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arnavmehar-5/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arnavmehar-5/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Arnavmehar-5/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Arnavmehar-5/patterns-not-problems-leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arnavmehar-5/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arnavmehar-5/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Backtracking
